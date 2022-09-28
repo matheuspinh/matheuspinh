@@ -31,3 +31,5 @@
 </div>
 
 ![Snake animation](https://github.com/matheuspinh/matheuspinh/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
