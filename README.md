@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/matheuspinh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspinh&show_icons=true&theme=highcontrast">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspinh&layout=compact&theme=highcontrast">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspinh&hide=python&layout=compact&theme=highcontrast">
 </div>
 
 <div align="center">
