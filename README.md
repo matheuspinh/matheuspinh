@@ -1,5 +1,16 @@
 ### 🌎 Hello, world! Eu sou o Matheus!
+
+Sou bacharel em engenharia civil transformado em Desenvolvedor web. 
+
+Atuei durante o período da graduação no setor de construção civil e de manutenção de hotelaria. Nesses setores pude desenvolver habilidades de comunicação, de gerenciamento de recursos, gestão de prazos e adaptabilidade à imprevistos, mas principalmente solução de problemas. Por isso considero essas habilidades como pontos fortes.
+
+Tive meu primeiro contato com programação em 2021, quando iniciei e concluí o curso CS50x, e em 2022 decidi iniciar minha jornada na Cubos Academy.
+
+Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stack.
+
 ##
+
+
 
 - 🌱 Estou aprendendo React.js e Node.js
 - 😄 Pronomes: ele/dele
