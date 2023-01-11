@@ -12,7 +12,7 @@ Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stac
 
 
 
-- 🌱 Estou aprendendo React.js e Node.js
+- 🌱 Estou aprendendo React.js, Node.js e PostgreSQL
 - 😄 Pronomes: ele/dele
 ##
 <div align="center">
