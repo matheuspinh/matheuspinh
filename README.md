@@ -16,7 +16,6 @@ Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stac
 - 😄 Pronomes: ele/dele
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspinh)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <a href="https://github.com/matheuspinh">
