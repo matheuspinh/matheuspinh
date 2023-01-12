@@ -15,6 +15,9 @@ Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stac
 - 🌱 Estou aprendendo React.js, Node.js e PostgreSQL
 - 😄 Pronomes: ele/dele
 ##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/matheuspinh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspinh&show_icons=true&theme=highcontrast">
