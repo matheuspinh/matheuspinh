@@ -29,7 +29,7 @@ Atuei durante o período da graduação no setor de construção civil e de manu
 
 
 <div align="center">
-### Hard Skills:
+  <h1> Hard Skills: </h1>
   <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -42,7 +42,7 @@ Atuei durante o período da graduação no setor de construção civil e de manu
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </div>
- </div>
+</div>
 <br />
 <br />
 <div align="center">
@@ -50,5 +50,7 @@ Atuei durante o período da graduação no setor de construção civil e de manu
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheuspinh&show_icons=true&theme=highcontrast">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheuspinh&hide=python&layout=compact&theme=highcontrast">
 </div>
+  
 ##
+  
 ![Snake animation](https://github.com/matheuspinh/matheuspinh/blob/output/github-contribution-grid-snake.svg)
