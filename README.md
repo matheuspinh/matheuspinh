@@ -14,6 +14,8 @@ Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stac
 
 - 🌱 Estou aprendendo React.js, Node.js e PostgreSQL
 - 😄 Pronomes: ele/dele
+
+
 ##
 
 
@@ -33,9 +35,9 @@ Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stac
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </div>
  </div>
-##
-##
-##
+
+
+
 
 <div align="center">
   <a href="https://github.com/matheuspinh">
@@ -44,8 +46,8 @@ Tenho interesse em atuar como Desenvolvedor Web back-end, front-end ou full Stac
 </div>
 
 
-
-
+  
+  
 ##
 
 <div>
