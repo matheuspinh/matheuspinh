@@ -52,4 +52,4 @@ Atuei durante o período da graduação no setor de construção civil e de manu
   
 ##
   
-[Snake animation](https://github.com/matheuspinh/matheuspinh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheuspinh/matheuspinh/blob/output/github-contribution-grid-snake.svg)
