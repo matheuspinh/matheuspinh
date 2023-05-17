@@ -22,7 +22,7 @@ Atuei durante o período da graduação no setor de construção civil e de manu
 
 ##
 
-- 🌱 Estou aprendendo Typescript
+- 🌱 Estou aprendendo Typescript, Prisma e Next
 - 😄 Pronomes: ele/dele
 
 <div align="center">
