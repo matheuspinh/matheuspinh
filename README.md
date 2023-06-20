@@ -47,6 +47,5 @@ Atuei durante o período da graduação no setor de construção civil e de manu
 <br />
 <div align="center">
   <a href="https://github.com/matheuspinh">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheuspinh&show_icons=true&theme=highcontrast">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheuspinh&hide=python&layout=compact&theme=highcontrast">
 </div>
